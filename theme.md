@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Download
+title: Theme
 permalink: /download/
 
 tagline: "Loved it? Download Gravity"
@@ -25,8 +25,8 @@ tagline: "Loved it? Download Gravity"
 <div class="intro"><br>
   <p>
  Hello there! :) <BR><br>
- Hemang here, developer of <span class="small-site-title">Gravity</span> theme. <br>
- I'm a CS sophomore at USICT, New Delhi. <br><br>
+ Hemang is the developer of <span class="small-site-title">Gravity</span> theme. <br>
+ They are a CS sophomore at USICT, New Delhi. <br><br>
  <a href="http://facebook.com/hemangkr"><i class="fa fa-facebook"></i></a> &nbsp; &nbsp; &nbsp;<a href="http://github.com/hemangsk"><i class="fa fa-github"></i></a>
  </p>
 </div>
