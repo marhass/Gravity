@@ -9,8 +9,6 @@ permalink: /download/
  Download Gravity
 </h2>
 
-<br>
-
 <div class="download">
   <center>The theme "Gravity" was developed by Hemang Kumar, a CS sophomore at USICT, New Delhi. For more information, please see the links below.</center>
   <br>
