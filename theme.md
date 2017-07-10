@@ -3,8 +3,11 @@ layout: page
 title: Theme
 permalink: /download/
 
-tagline: "Download Gravity"
 ---
+
+<h2>
+ Download Gravity
+</h2>
 
 <br>
 
@@ -18,10 +21,3 @@ tagline: "Download Gravity"
 
 </center>
 </div>
-
-<div class="intro"><br>
-  <p>
-<a href="http://github.com/marhass"><i class="fa fa-github"></i></a>
- </p>
-</div>
-
