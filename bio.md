@@ -5,8 +5,8 @@ permalink: /bio/
 ---
 
 <p>
-Marlee Hassell is a native of Greensboro, North Carolina. <br>
-She is currently a student at the University of North Carolina at Chapel Hill, <br> 
-where she studies Environmental Science. <br>
-She hates her "friend" Amy. 
+Marlee Hassell is a native of Greensboro, North Carolina. 
+She is currently a student at the University of North Carolina at Chapel Hill, 
+where she studies Environmental Science. 
+One day, she hopes to work in the renewable energy sector. 
 </p>
