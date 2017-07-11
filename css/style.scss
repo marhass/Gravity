@@ -146,7 +146,7 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: #FA8072 !important;
+    color: #aaa !important;
     text-decoration: none;
 
     &:visited {
@@ -161,10 +161,11 @@ a {
     &.page-link{
       &:hover {
           color: $text-color;
-          border-bottom: 1px dotted $text-color ;
+          border-bottom: 1px dotted black ;
       }
     }
     &.postLink{
+<<<<<<< HEAD
 <<<<<<< HEAD
       color: #0d033a !important;
       &:hover {
@@ -176,6 +177,12 @@ a {
 
           border-bottom: 1px dotted $text-color ;
 >>>>>>> 062d46b65e5ca47f3af1d1354b8d28f3b9250cb6
+=======
+      color: black !important;
+      &:hover {
+
+          border-bottom: 1px dotted black ;
+>>>>>>> parent of 72199ec... change link colors
       }
 
       &:visited {
@@ -183,6 +190,7 @@ a {
       }
     }
     &.post-title-link{
+<<<<<<< HEAD
 <<<<<<< HEAD
       color: #0d033a !important;
       &:hover {
@@ -194,6 +202,12 @@ a {
 
           border-bottom: 1px dotted #FFDB58 !important ;
 >>>>>>> 062d46b65e5ca47f3af1d1354b8d28f3b9250cb6
+=======
+      color: black !important;
+      &:hover {
+
+          border-bottom: 1px dotted black !important ;
+>>>>>>> parent of 72199ec... change link colors
       }
 
       &:visited {
