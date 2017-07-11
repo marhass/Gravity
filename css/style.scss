@@ -161,23 +161,29 @@ a {
     &.page-link{
       &:hover {
           color: $text-color;
+<<<<<<< HEAD
           border-bottom: 1px dotted black !important;
+=======
           border-bottom: 1px dotted black ;
+>>>>>>> parent of 062d46b... update link colors
       }
     }
     &.postLink{
+<<<<<<< HEAD
       color: black !important;
       &:hover {
 
           border-bottom: 1px dotted black ;
-
+=======
       color: $text-color !important;
-
-      color: black !important;
       &:hover {
 
+<<<<<<< HEAD
           border-bottom: 1px dotted black ;
+>>>>>>> 062d46b65e5ca47f3af1d1354b8d28f3b9250cb6
+=======
           border-bottom: 1px dotted black ;
+>>>>>>> parent of 062d46b... update link colors
       }
 
       &:visited {
@@ -185,18 +191,24 @@ a {
       }
     }
     &.post-title-link{
+<<<<<<< HEAD
+<<<<<<< HEAD
       color: black !important;
       &:hover {
 
           border-bottom: 1px dotted black !important ;
+=======
       color: black !important;
       &:hover {
 
           border-bottom: 1px dotted black !important ;
+>>>>>>> 062d46b65e5ca47f3af1d1354b8d28f3b9250cb6
+=======
       color: black !important;
       &:hover {
 
           border-bottom: 1px dotted black !important ;
+>>>>>>> parent of 062d46b... update link colors
       }
 
       &:visited {
