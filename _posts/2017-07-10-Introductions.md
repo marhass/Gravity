@@ -28,6 +28,24 @@ and how to build a website using Jekyll and Github Pages, which is what you are 
 When I signed up for this class, I did not know what I was in for.
 I was expecting a dry course about Excel databases.
 The fact that it has been so closely related to computer science surprised me, 
-but as the class progressed I began to realize the importance of this knowledge.
+but as the class progresses I'm realizing more and more the importance of this knowledge.
 </p>
+
+<br>
+My favorite quote that I have come across while reading articles for this class comes from
+the <a href="http://linuxcommand.org/lc3_learning_the_shell.php">Learning the Shell</a> website:
+<blockquote>
+<p>
+I once heard an author say that when you are a child you use a computer by looking at the pictures. 
+When you grow up, you learn to read and write.
+</p>
+</blockquote>
+
+The way we learn, interact, and communicate is becoming increasingly dependent on technology. 
+And when I say technology, I mean computers.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ibm_pc_5150.jpg" alt="apparently this is a computer, but I can't find the Apple logo on it, so I'm not sure"/>
+
+
+<marquee>Thus, I feel eager because I know the tools I learn in this class will help me greatly.</marquee>
 
