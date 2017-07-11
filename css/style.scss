@@ -167,18 +167,20 @@ a {
     }
     &.postLink{
       color: black !important;
-      &:hover {
+        &:hover {
 
           border-bottom: 1px dotted black ;
 
       color: $text-color !important;
 
       color: black !important;
-      &:hover {
+        &:hover {
 
           border-bottom: 1px dotted black ;
           border-bottom: 1px dotted black ;
-      }
+        }
+        }
+     }
 
       &:visited {
           color: "crimson" !important;
