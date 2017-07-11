@@ -14,7 +14,7 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #ffffff;
+$text-color:       #660030;
 $background-color: #ffe4bd;
 $brand-color:      #2a7ae2;
 
@@ -165,10 +165,17 @@ a {
       }
     }
     &.postLink{
+<<<<<<< HEAD
       color: #0d033a !important;
       &:hover {
 
           border-bottom: 1px dotted #0d033a ;
+=======
+      color: $text-color !important;
+      &:hover {
+
+          border-bottom: 1px dotted $text-color ;
+>>>>>>> 062d46b65e5ca47f3af1d1354b8d28f3b9250cb6
       }
 
       &:visited {
@@ -176,10 +183,17 @@ a {
       }
     }
     &.post-title-link{
+<<<<<<< HEAD
       color: #0d033a !important;
       &:hover {
 
           border-bottom: 1px dotted #0d033a !important ;
+=======
+      color: #FFDB58 !important;
+      &:hover {
+
+          border-bottom: 1px dotted #FFDB58 !important ;
+>>>>>>> 062d46b65e5ca47f3af1d1354b8d28f3b9250cb6
       }
 
       &:visited {
@@ -380,7 +394,7 @@ pre {
   margin-top: 1em;
   &,
   &:visited {
-    color: #ffffff;
+    color: #005b80;
   }
 }
 .site-description {
