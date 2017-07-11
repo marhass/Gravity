@@ -162,7 +162,7 @@ a {
       &:hover {
           color: $text-color;
 <<<<<<< HEAD
-          border-bottom: 1px dotted $text-color !important;
+          border-bottom: 1px dotted black !important;
 =======
           border-bottom: 1px dotted black ;
 >>>>>>> parent of 062d46b... update link colors
@@ -170,16 +170,16 @@ a {
     }
     &.postLink{
 <<<<<<< HEAD
-      color: #0d033a !important;
+      color: black !important;
       &:hover {
 
-          border-bottom: 1px dotted #0d033a ;
+          border-bottom: 1px dotted black ;
 =======
       color: $text-color !important;
       &:hover {
 
 <<<<<<< HEAD
-          border-bottom: 1px dotted $text-color ;
+          border-bottom: 1px dotted black ;
 >>>>>>> 062d46b65e5ca47f3af1d1354b8d28f3b9250cb6
 =======
           border-bottom: 1px dotted black ;
@@ -193,15 +193,15 @@ a {
     &.post-title-link{
 <<<<<<< HEAD
 <<<<<<< HEAD
-      color: #0d033a !important;
+      color: black !important;
       &:hover {
 
-          border-bottom: 1px dotted #0d033a !important ;
+          border-bottom: 1px dotted black !important ;
 =======
-      color: #FFDB58 !important;
+      color: black !important;
       &:hover {
 
-          border-bottom: 1px dotted #FFDB58 !important ;
+          border-bottom: 1px dotted black !important ;
 >>>>>>> 062d46b65e5ca47f3af1d1354b8d28f3b9250cb6
 =======
       color: black !important;
