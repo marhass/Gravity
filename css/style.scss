@@ -146,7 +146,7 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: #aaa !important;
+    color: #FA8072 !important;
     text-decoration: none;
 
     &:visited {
@@ -161,14 +161,14 @@ a {
     &.page-link{
       &:hover {
           color: $text-color;
-          border-bottom: 1px dotted black ;
+          border-bottom: 1px dotted $text-color ;
       }
     }
     &.postLink{
-      color: black !important;
+      color: #0d033a !important;
       &:hover {
 
-          border-bottom: 1px dotted black ;
+          border-bottom: 1px dotted #0d033a ;
       }
 
       &:visited {
@@ -176,10 +176,10 @@ a {
       }
     }
     &.post-title-link{
-      color: black !important;
+      color: #0d033a !important;
       &:hover {
 
-          border-bottom: 1px dotted black !important ;
+          border-bottom: 1px dotted #0d033a !important ;
       }
 
       &:visited {
