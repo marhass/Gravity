@@ -165,7 +165,7 @@ a {
       }
     }
     &.postLink{
-      color: black !important;
+      color: $text-color !important;
       &:hover {
 
           border-bottom: 1px dotted black ;
