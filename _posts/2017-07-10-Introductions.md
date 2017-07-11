@@ -7,6 +7,8 @@ categories: [INLS]
 
 <p>First and foremost, welcome to my blog!</p>
 
+<br>
+
 <p>
 This site will house my upcoming assignments for my information science class, INLS 161. 
 In this first post, I want to write about what I have learned so far in the class. 
@@ -16,7 +18,7 @@ In this first post, I want to write about what I have learned so far in the clas
 
 <p>
 Thus far, we have covered how computing works, both historically and currently; 
-what [Github](https://github.com/) is and why we should use it; the different types of creative commons licenses; 
+what <a href="https://github.com/">Github</a> is and why we should use it; the different types of creative commons licenses; 
 and how to build a website using Jekyll and Github Pages, which is what you are looking at right now!
 </p>
 
