@@ -3,10 +3,10 @@
 ---
 @charset "utf-8";
 
-// bright blue: #2995a3, "grey-color"
-// navy blue: #005b80, "site-title"
-// maroon: #660030, main text
-// crème: #fffafa, background
+// bright blue: #2995a3, "grey-color" --> #005b81
+// navy blue: #005b80, "site-title" --> http://www.color-hex.com/color/004967
+// maroon: #660030, main text --> #670049
+// crème: #fffafa, background --> #f7eae5
 
 // Our variables
 $base-font-family: "Georgia";
@@ -17,11 +17,11 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #660030;
-$background-color: #fffafa;
+$text-color:       #670049;
+$background-color: #f7eae5;
 $brand-color:      #2a7ae2;
 
-$grey-color:       #2995a3;
+$grey-color:       #005b81;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
