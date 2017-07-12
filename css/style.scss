@@ -249,7 +249,6 @@ pre {
     margin-left: auto;
     padding-right: $spacing-unit;
     padding-left: $spacing-unit;
-    color: #fb7e00;
     @extend %clearfix;
 
     @include media-query($on-laptop) {
