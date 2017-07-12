@@ -7,6 +7,7 @@
 // navy blue: #005b80, "site-title" --> http://www.color-hex.com/color/004967
 // maroon: #660030, main text --> #670049
 // crème: #fffafa, background --> #f7eae5
+// green: #205a08, links --> #007fb3
 
 // Our variables
 $base-font-family: "Georgia";
@@ -19,7 +20,7 @@ $spacing-unit:     30px;
 
 $text-color:       #670049;
 $background-color: #f7eae5;
-$brand-color:      #2a7ae2;
+$brand-color:      #005b80;
 
 $grey-color:       #005b81;
 $grey-color-light: lighten($grey-color, 40%);
@@ -149,7 +150,7 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: #205a08 !important;
+    color: #007fb3 !important;
     text-decoration: none;
 
     &:visited {
